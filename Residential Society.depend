@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731129404 source:c:\users\om-31406\desktop\anshika\code blocks\residential society\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
